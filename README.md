@@ -12,7 +12,7 @@ This project aims to predict credit card defaulters using machine learning techn
 5. [Conclusion](#conclusion)
 6. [Installation](#installation)
 7. [Usage](#usage)
-8.. [Acknowledgments](#acknowledgments)
+8. [Acknowledgments](#acknowledgments)
 
 ---
 
